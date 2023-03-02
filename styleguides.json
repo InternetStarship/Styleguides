@@ -33,13 +33,13 @@
       },
       "subheadline": {
         "font": "Lato",
-        "weight": "700",
+        "weight": "600",
         "lineHeight": "150%",
         "letterSpacing": "0.5"
       },
       "content": {
         "font": "Roboto",
-        "weight": "700",
+        "weight": "400",
         "lineHeight": "150",
         "letterSpacing": "0.5"
       }
