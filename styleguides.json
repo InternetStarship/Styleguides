@@ -1,7 +1,15 @@
 {
   "style1": {
-    "base": 16,
-    "base--unit": "px",
+    "base": {
+      "desktop": {
+        "size": 16,
+        "size--unit": "px"
+      },
+      "mobile": {
+        "size": 17,
+        "size--unit": "px"
+      }
+    },
     "colors": {
       "background": {
         "light": "#ffffff",
@@ -17,9 +25,24 @@
       }
     },
     "googlefamilies": {
-      "headline": "Poppins",
-      "subheadline": "Poppins",
-      "content": "Poppins"
+      "headline": {
+        "font": "Poppins",
+        "weight": "700",
+        "lineHeight": "150",
+        "letterSpacing": "0.5"
+      },
+      "subheadline": {
+        "font": "Poppins",
+        "weight": "700",
+        "lineHeight": "150%",
+        "letterSpacing": "0.5"
+      },
+      "content": {
+        "font": "Poppins",
+        "weight": "700",
+        "lineHeight": "150",
+        "letterSpacing": "0.5"
+      }
     },
     "fonts": {
       "headline": {},
