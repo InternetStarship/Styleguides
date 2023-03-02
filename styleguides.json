@@ -19,9 +19,9 @@
         "colored": "rgb(255, 255, 255)"
       },
       "content": {
-        "text": "#222",
-        "primary": "#00bcd4",
-        "secondary": "#00bcd4"
+        "text": "rgb(255, 255, 255)",
+        "primary": "rgb(255, 255, 255)",
+        "secondary": "rgb(255, 255, 255)"
       }
     },
     "googlefamilies": {
