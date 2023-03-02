@@ -203,40 +203,40 @@
     },
     "shadows": {
       "style1": {
-        "x": "0px",
-        "y": "0px",
-        "blur": "20px",
-        "spread": "0px",
+        "x": 0,
+        "y": 0,
+        "blur": 20,
+        "spread": 0,
         "color": "#222"
       },
       "style2": {
-        "x": "0px",
-        "y": "0px",
-        "blur": "10px",
-        "spread": "0px",
+        "x": 0,
+        "y": 0,
+        "blur": 40,
+        "spread": 0,
         "color": "#000000"
       },
       "style3": {
-        "x": "0px",
-        "y": "0px",
-        "blur": "30px",
-        "spread": "0px",
+        "x": 0,
+        "y": 0,
+        "blur": 30,
+        "spread": 0,
         "color": "#888"
       }
     },
     "borders": {
       "style1": {
-        "size": "1px",
+        "size": 2,
         "color": "#000000",
         "style": "solid"
       },
       "style2": {
-        "size": "1px",
+        "size": 3,
         "color": "#000000",
         "style": "solid"
       },
       "style3": {
-        "size": "1px",
+        "size": 4,
         "color": "#000000",
         "style": "solid"
       }
