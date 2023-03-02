@@ -1,18 +1,14 @@
 {
   "style1": {
     "colors": {
-      "1": "#f44336",
-      "2": "#e91e63",
-      "3": "#9c27b0",
-      "4": "#673ab7",
-      "5": "#3f51b5",
-      "6": "#2196f3",
-      "7": "#03a9f4",
-      "8": "#00bcd4",
-      "light": 1,
-      "lightest": 2,
-      "dark": 3,
-      "darkest": 4
+      "light": "#00bcd4",
+      "lightest": "#00bcd4",
+      "dark": "#00bcd4",
+      "darkest": "#00bcd4",
+      "text": "#222",
+      "primary": "#00bcd4",
+      "secondary": "#00bcd4",
+      "neutral": "#00bcd4"
     },
     "googlefamilies": {
       "headline": "Poppins",
