@@ -226,18 +226,18 @@
     },
     "borders": {
       "style1": {
-        "size": 2,
+        "size": "2px",
         "color": "#000000",
         "style": "solid"
       },
       "style2": {
-        "size": 3,
-        "color": "#000000",
+        "size": "3px",
+        "color": "#ddd",
         "style": "solid"
       },
       "style3": {
-        "size": 4,
-        "color": "#000000",
+        "size": "4px",
+        "color": "#333",
         "style": "solid"
       }
     },
