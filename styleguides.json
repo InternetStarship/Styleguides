@@ -242,9 +242,9 @@
       }
     },
     "corners": {
-      "style1": "124px",
-      "style2": "32px",
-      "style3": "220px"
+      "style1": 123,
+      "style2": 22,
+      "style3": 11
     }
   }
 }
