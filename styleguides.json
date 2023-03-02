@@ -12,16 +12,16 @@
     },
     "colors": {
       "background": {
-        "light": "rgb(255, 255, 255)",
-        "lightest": "rgb(255, 255, 255)",
-        "dark": "rgb(255, 255, 255)",
-        "darkest": "rgb(255, 255, 255)",
-        "colored": "rgb(255, 255, 255)"
+        "light": "#fff",
+        "lightest": "#eee",
+        "dark": "#777",
+        "darkest": "#111",
+        "colored": "#FF0000"
       },
       "content": {
-        "text": "rgb(255, 255, 255)",
-        "primary": "rgb(255, 255, 255)",
-        "secondary": "rgb(255, 255, 255)"
+        "text": "#222436",
+        "primary": "#3E68D7",
+        "secondary": "#C3E88D"
       }
     },
     "googlefamilies": {
