@@ -12,7 +12,7 @@
     },
     "colors": {
       "background": {
-        "light": "#fff",
+        "light": "rgb(0,0,0)",
         "lightest": "#eee",
         "dark": "#777",
         "darkest": "#111",
