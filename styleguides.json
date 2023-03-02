@@ -32,13 +32,13 @@
         "letterSpacing": "0.5"
       },
       "subheadline": {
-        "font": "Poppins",
+        "font": "Lato",
         "weight": "700",
         "lineHeight": "150%",
         "letterSpacing": "0.5"
       },
       "content": {
-        "font": "Poppins",
+        "font": "Roboto",
         "weight": "700",
         "lineHeight": "150",
         "letterSpacing": "0.5"
