@@ -27,27 +27,60 @@
     "googlefamilies": {
       "headline": {
         "font": "Oswald",
-        "weight": "700",
-        "lineHeight": "150",
-        "letterSpacing": "0.5"
+        "weight": 700,
+        "lineHeight": 150,
+        "letterSpacing": 0.5,
+        "letterSpacing--unit": "rem",
+        "lineHeight--unit": "%"
       },
       "subheadline": {
         "font": "Lato",
-        "weight": "600",
-        "lineHeight": "150%",
-        "letterSpacing": "0.5"
+        "weight": 600,
+        "lineHeight": 150,
+        "letterSpacing": 0.5,
+        "letterSpacing--unit": "rem",
+        "lineHeight--unit": "%"
       },
       "content": {
         "font": "Montserrat",
-        "weight": "300",
-        "lineHeight": "150",
-        "letterSpacing": "0.5"
+        "weight": 300,
+        "lineHeight": 150,
+        "letterSpacing": 0.5,
+        "letterSpacing--unit": "rem",
+        "lineHeight--unit": "%"
       }
     },
     "fonts": {
-      "headline": {},
-      "subheadline": {},
-      "paragraph": {}
+      "headline": {
+        "xl": 3.12,
+        "xl--unit": "rem",
+        "l": 1.5,
+        "l--unit": "rem",
+        "m": 1,
+        "m--unit": "rem",
+        "s": 0.8,
+        "s--unit": "rem"
+      },
+      "subheadline": {
+        "xl": 3.12,
+        "xl--unit": "rem",
+        "l": 1.5,
+        "l--unit": "rem",
+        "m": 1,
+        "m--unit": "rem",
+        "s": 0.8,
+        "s--unit": "rem"
+      },
+      "content": {
+        "xl": 3.12,
+        "xl--unit": "rem",
+        "l": 1.5,
+        "l--unit": "rem",
+        "m": 1,
+        "m--unit": "rem",
+        "s": 0.8,
+        "s--unit": "rem"
+      }
     },
     "buttons": {
       "style1": {
