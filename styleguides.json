@@ -24,7 +24,7 @@
       "subheadline": {},
       "paragraph": {}
     },
-    "button": {
+    "buttons": {
       "style1": {
         "size": "14px",
         "color": "#ffffff",
@@ -42,7 +42,7 @@
         }
       }
     },
-    "shadow": {
+    "shadows": {
       "style1": {
         "x": "0px",
         "y": "0px",
@@ -65,7 +65,7 @@
         "color": "#888"
       }
     },
-    "border": {
+    "borders": {
       "style1": {
         "size": "1px",
         "color": "#000000",
@@ -82,7 +82,97 @@
         "style": "solid"
       }
     },
-    "corner": {
+    "corners": {
+      "style1": "4px",
+      "style2": "12px",
+      "style3": "20px"
+    }
+  },
+
+  "style2": {
+    "colors": {
+      "1": "#f44336",
+      "2": "#e91e63",
+      "3": "#9c27b0",
+      "4": "#673ab7",
+      "5": "#3f51b5",
+      "6": "#2196f3",
+      "7": "#03a9f4",
+      "8": "#00bcd4",
+      "light": 1,
+      "lightest": 2,
+      "dark": 3,
+      "darkest": 4
+    },
+    "fonts": {
+      "headline": "Poppins",
+      "subheadline": "Poppins",
+      "content": "Poppins"
+    },
+    "typeScale": {
+      "headline": {},
+      "subheadline": {},
+      "paragraph": {}
+    },
+    "buttons": {
+      "style1": {
+        "size": "14px",
+        "color": "#ffffff",
+        "background": "#000000",
+        "border": "#000000",
+        "hover": {
+          "color": "#ffffff",
+          "background": "#000000",
+          "border": "#000000"
+        },
+        "active": {
+          "color": "#ffffff",
+          "background": "#000000",
+          "border": "#000000"
+        }
+      }
+    },
+    "shadows": {
+      "style1": {
+        "x": "0px",
+        "y": "0px",
+        "blur": "20px",
+        "spread": "0px",
+        "color": "#222"
+      },
+      "style2": {
+        "x": "0px",
+        "y": "0px",
+        "blur": "10px",
+        "spread": "0px",
+        "color": "#000000"
+      },
+      "style3": {
+        "x": "0px",
+        "y": "0px",
+        "blur": "30px",
+        "spread": "0px",
+        "color": "#888"
+      }
+    },
+    "borders": {
+      "style1": {
+        "size": "1px",
+        "color": "#000000",
+        "style": "solid"
+      },
+      "style2": {
+        "size": "1px",
+        "color": "#000000",
+        "style": "solid"
+      },
+      "style3": {
+        "size": "1px",
+        "color": "#000000",
+        "style": "solid"
+      }
+    },
+    "corners": {
       "style1": "4px",
       "style2": "12px",
       "style3": "20px"
