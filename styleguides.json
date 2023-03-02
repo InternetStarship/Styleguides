@@ -14,12 +14,12 @@
       "dark": 3,
       "darkest": 4
     },
-    "fonts": {
+    "googlefamilies": {
       "headline": "Poppins",
       "subheadline": "Poppins",
       "content": "Poppins"
     },
-    "typeScale": {
+    "fonts": {
       "headline": {},
       "subheadline": {},
       "paragraph": {}
@@ -104,12 +104,12 @@
       "dark": 3,
       "darkest": 4
     },
-    "fonts": {
+    "googlefamilies": {
       "headline": "Poppins",
       "subheadline": "Poppins",
       "content": "Poppins"
     },
-    "typeScale": {
+    "fonts": {
       "headline": {},
       "subheadline": {},
       "paragraph": {}
