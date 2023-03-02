@@ -50,7 +50,39 @@
         "lineHeight--unit": "%"
       }
     },
-    "fonts": {
+    "fontsDesktop": {
+      "headline": {
+        "xl": 3.12,
+        "xl--unit": "rem",
+        "l": 1.5,
+        "l--unit": "rem",
+        "m": 1,
+        "m--unit": "rem",
+        "s": 0.8,
+        "s--unit": "rem"
+      },
+      "subheadline": {
+        "xl": 3.12,
+        "xl--unit": "rem",
+        "l": 1.5,
+        "l--unit": "rem",
+        "m": 1,
+        "m--unit": "rem",
+        "s": 0.8,
+        "s--unit": "rem"
+      },
+      "content": {
+        "xl": 3.12,
+        "xl--unit": "rem",
+        "l": 1.5,
+        "l--unit": "rem",
+        "m": 1,
+        "m--unit": "rem",
+        "s": 0.8,
+        "s--unit": "rem"
+      }
+    },
+    "fontsMobile": {
       "headline": {
         "xl": 3.12,
         "xl--unit": "rem",
