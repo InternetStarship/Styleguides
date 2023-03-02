@@ -12,11 +12,11 @@
     },
     "colors": {
       "background": {
-        "light": "#ffffff",
-        "lightest": "#eee",
-        "dark": "#555",
-        "darkest": "#111",
-        "colored": "blue"
+        "light": "rgb(255, 255, 255)",
+        "lightest": "rgb(255, 255, 255)",
+        "dark": "rgb(255, 255, 255)",
+        "darkest": "rgb(255, 255, 255)",
+        "colored": "rgb(255, 255, 255)"
       },
       "content": {
         "text": "#222",
