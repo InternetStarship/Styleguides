@@ -16,15 +16,15 @@
         },
         "colors": {
           "background": {
-            "light": "#F8F8F8",
             "lightest": "#ffffff",
+            "light": "#F4F6FC",
             "dark": "#323232",
             "darkest": "#1D1D1D",
             "colored": "#D91C15"
           },
           "content": {
             "text": "#464646",
-            "primary": "#3992F3",
+            "primary": "#4A6FC3",
             "secondary": "#30B880"
           }
         },
@@ -313,14 +313,14 @@
             "y": 2,
             "blur": 5,
             "spread": 1,
-            "color": "rgba(0,0,0,0.5)"
+            "color": "rgba(0,0,0,0.2)"
           },
           "style3": {
             "x": 0,
             "y": 4,
             "blur": 5,
             "spread": 1,
-            "color": "rgba(0,0,0,0.8)"
+            "color": "rgba(0,0,0,0.3)"
           }
         },
         "borders": {
@@ -330,13 +330,13 @@
             "style": "solid"
           },
           "style2": {
-            "size": "2px",
-            "color": "#A2B6E1",
+            "size": "1px",
+            "color": "#B1B1B1",
             "style": "solid"
           },
           "style3": {
-            "size": "4px",
-            "color": "#6D6D6D",
+            "size": "1px",
+            "color": "#D9E2F4",
             "style": "solid"
           }
         },
