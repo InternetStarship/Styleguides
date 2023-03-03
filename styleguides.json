@@ -273,47 +273,47 @@
         "shadows": {
           "style1": {
             "x": 0,
-            "y": 0,
-            "blur": 20,
-            "spread": 0,
-            "color": "#222"
+            "y": 1,
+            "blur": 5,
+            "spread": 1,
+            "color": "rgba(0,0,0,0.3)"
           },
           "style2": {
             "x": 0,
-            "y": 0,
-            "blur": 40,
-            "spread": 0,
-            "color": "#000000"
+            "y": 2,
+            "blur": 5,
+            "spread": 1,
+            "color": "rgba(0,0,0,0.5)"
           },
           "style3": {
             "x": 0,
-            "y": 0,
-            "blur": 30,
-            "spread": 0,
-            "color": "#888"
+            "y": 4,
+            "blur": 5,
+            "spread": 1,
+            "color": "rgba(0,0,0,0.8)"
           }
         },
         "borders": {
           "style1": {
-            "size": "2px",
-            "color": "#000000",
+            "size": "1px",
+            "color": "#D5D5D5",
             "style": "solid"
           },
           "style2": {
-            "size": "3px",
-            "color": "#ddd",
+            "size": "2px",
+            "color": "#A2B6E1",
             "style": "solid"
           },
           "style3": {
             "size": "4px",
-            "color": "#333",
+            "color": "#6D6D6D",
             "style": "solid"
           }
         },
         "corners": {
-          "style1": 123,
-          "style2": 22,
-          "style3": 11
+          "style1": 4,
+          "style2": 5,
+          "style3": 8
         }
       }
     },
