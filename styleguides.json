@@ -16,16 +16,16 @@
         },
         "colors": {
           "background": {
-            "light": "#ffffff",
-            "lightest": "#F8F8F8",
-            "dark": "#777",
-            "darkest": "#323232",
-            "colored": "#D91C15"
+            "light": "#F8F8F8",
+            "lightest": "#ffffff",
+            "dark": "#323232",
+            "darkest": "#1D1D1D",
+            "colored": "#F75D46"
           },
           "content": {
             "text": "#464646",
             "primary": "#3992F3",
-            "secondary": "#909090"
+            "secondary": "#30B880"
           }
         },
         "googlefamilies": {
