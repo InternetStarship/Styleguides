@@ -394,7 +394,7 @@
           },
           "content": {
             "font": "Roboto",
-            "weight": 500,
+            "weight": 400,
             "lineHeight": 150,
             "letterSpacing": 0,
             "letterSpacing--unit": "rem",
