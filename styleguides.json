@@ -30,7 +30,7 @@
         },
         "googlefamilies": {
           "headline": {
-            "font": "Noto Sans TC",
+            "font": "Oswald",
             "weight": 700,
             "lineHeight": 150,
             "letterSpacing": 0,
@@ -38,7 +38,7 @@
             "lineHeight--unit": "%"
           },
           "subheadline": {
-            "font": "Noto Sans TC",
+            "font": "Roboto",
             "weight": 600,
             "lineHeight": 150,
             "letterSpacing": 0,
@@ -46,7 +46,7 @@
             "lineHeight--unit": "%"
           },
           "content": {
-            "font": "Noto Sans TC",
+            "font": "Lato",
             "weight": 300,
             "lineHeight": 150,
             "letterSpacing": 0,
