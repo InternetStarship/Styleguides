@@ -181,10 +181,10 @@
           },
           "style2": {
             "text": {
-              "size": 11,
+              "size": 18,
               "size--unit": "px",
-              "lineHeight": 1.5,
-              "lineHeight--unit": "rem",
+              "lineHeight": 23,
+              "lineHeight--unit": "px",
               "letterSpacing": 0,
               "letterSpacing--unit": "px"
             },
@@ -198,8 +198,8 @@
             },
             "border": {
               "style": "solid",
-              "size": "1px",
-              "color": "#000000"
+              "size": "2px",
+              "color": "#0165DC"
             },
             "corner": {
               "radius": "60px"
@@ -212,39 +212,39 @@
               "color": "rgba(0,0,0,0)"
             },
             "regular": {
-              "background": "#eee",
+              "background": "rgba(0,0,0,0)",
               "text": {
-                "color": "#444"
+                "color": "#0165DC"
               },
               "subText": {
-                "color": "#444"
+                "color": "#0165DC"
               }
             },
             "hover": {
-              "background": "#333",
+              "background": "#CAE8FF",
               "text": {
-                "color": "#ffffff"
+                "color": "#0165DC"
               },
               "subText": {
-                "color": "#ffffff"
+                "color": "#0165DC"
               }
             },
             "active": {
-              "background": "#555",
+              "background": "#B5DEFF",
               "text": {
-                "color": "#ffffff"
+                "color": "#0165DC"
               },
               "subText": {
-                "color": "#ffffff"
+                "color": "#0165DC"
               }
             }
           },
           "style3": {
             "text": {
-              "size": 22,
+              "size": 18,
               "size--unit": "px",
-              "lineHeight": 1.5,
-              "lineHeight--unit": "rem",
+              "lineHeight": 23,
+              "lineHeight--unit": "px",
               "letterSpacing": 0,
               "letterSpacing--unit": "px"
             },
@@ -258,8 +258,8 @@
             },
             "border": {
               "style": "solid",
-              "size": "1px",
-              "color": "#000000"
+              "size": "0px",
+              "color": "rgba(0,0,0,0)"
             },
             "corner": {
               "radius": "60px"
