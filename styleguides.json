@@ -30,24 +30,24 @@
         },
         "googlefamilies": {
           "headline": {
-            "font": "Oswald",
-            "weight": 700,
-            "lineHeight": 150,
+            "font": "Nanum Gothic",
+            "weight": 900,
+            "lineHeight": 130,
             "letterSpacing": 0,
             "letterSpacing--unit": "rem",
             "lineHeight--unit": "%"
           },
           "subheadline": {
-            "font": "Roboto",
-            "weight": 600,
-            "lineHeight": 150,
+            "font": "Nanum Gothic",
+            "weight": 700,
+            "lineHeight": 130,
             "letterSpacing": 0,
             "letterSpacing--unit": "rem",
             "lineHeight--unit": "%"
           },
           "content": {
-            "font": "Lato",
-            "weight": 300,
+            "font": "Nanum Gothic",
+            "weight": 500,
             "lineHeight": 150,
             "letterSpacing": 0,
             "letterSpacing--unit": "rem",
