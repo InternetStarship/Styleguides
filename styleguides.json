@@ -20,7 +20,7 @@
             "lightest": "#ffffff",
             "dark": "#323232",
             "darkest": "#1D1D1D",
-            "colored": "#F75D46"
+            "colored": "#D91C15"
           },
           "content": {
             "text": "#464646",
@@ -276,7 +276,7 @@
             "y": 1,
             "blur": 5,
             "spread": 1,
-            "color": "rgba(0,0,0,0.3)"
+            "color": "rgba(0,0,0,0.1)"
           },
           "style2": {
             "x": 0,
