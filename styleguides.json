@@ -121,17 +121,17 @@
         "buttons": {
           "style1": {
             "text": {
-              "size": 22,
+              "size": 18,
               "size--unit": "px",
-              "lineHeight": 1.5,
-              "lineHeight--unit": "rem",
+              "lineHeight": 23,
+              "lineHeight--unit": "px",
               "letterSpacing": 0,
               "letterSpacing--unit": "px"
             },
             "subText": {
               "size": 14,
               "size--unit": "px",
-              "lineHeight": 1.5,
+              "lineHeight": 0.9,
               "lineHeight--unit": "rem",
               "letterSpacing": 0.5,
               "letterSpacing--unit": "px"
@@ -139,10 +139,10 @@
             "border": {
               "style": "solid",
               "size": "1px",
-              "color": "#000000"
+              "color": "rgba(0,0,0,0)"
             },
             "regular": {
-              "background": "#000000",
+              "background": "#0165DC",
               "text": {
                 "color": "#ffffff"
               },
@@ -151,7 +151,7 @@
               }
             },
             "hover": {
-              "background": "#333",
+              "background": "#0054B6",
               "text": {
                 "color": "#ffffff"
               },
@@ -160,7 +160,7 @@
               }
             },
             "active": {
-              "background": "#555",
+              "background": "#004491",
               "text": {
                 "color": "#ffffff"
               },
